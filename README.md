@@ -27,8 +27,6 @@ A modern, responsive website for ApexIELTS - a professional IELTS preparation in
 - npm or yarn package manager
 
 ### Installation
-
-1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/apexielts-website.git
+git clone https://github.com/Hanzala1234-ai/apexielts-website.git
 cd apexielts-website
